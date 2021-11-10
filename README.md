@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EY-KyleL
+- 👋 Hi, I’m Kyle Law
 - 👀 I’m interested in AWS & Ruby on Rails
 - 🌱 I’m currently learning Hotwire
 <!---
